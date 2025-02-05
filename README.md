@@ -2,11 +2,11 @@
 
 Using flask, the following endpoints are built:
 
-/api/v1.0/precipitation<br/>"
-/api/v1.0/stations<br/>"
-/api/v1.0/tobs<br/>"
-/api/v1.0/<start><br/>"
-/api/v1.0/<start>/<end>"
+/api/v1.0/precipitation<br/>
+/api/v1.0/stations<br/>
+/api/v1.0/tobs<br/>
+/api/v1.0/<start><br/>
+/api/v1.0/<start>/<end>
 
 The home page shows all the endpoints that can be accessed.
 
