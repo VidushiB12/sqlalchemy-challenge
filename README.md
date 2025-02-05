@@ -10,7 +10,7 @@ Using flask, the following endpoints are built:
 
 The home page shows all the endpoints that can be accessed.
 
-The precipitation endpoint returms the precipitation togther with the date in the form of a dictionary for the past year from the most recent date in the data set.
+The precipitation endpoint returns the precipitation together with the date in the form of a dictionary for the past year from the most recent date in the data set.
 
 The stations endpoint returns the lists of stations from the dataset.
 
